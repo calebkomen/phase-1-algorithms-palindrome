@@ -26,10 +26,7 @@
 /* 
   Add your pseudocode here
 */
-create an array from the input string
-reverse the array
-create a string from the reversed array
-return the reversed string
+
 
 /*
   Add written explanation of your solution here
